@@ -1,0 +1,5 @@
+{
+    "DSN": "postgres://postgres:postgres@@messaggiodb:5432/messaggio?sslmode=disable",
+    "KafkaUrl": "kafka:29092",
+    "KafkaTopic": "events"
+}
